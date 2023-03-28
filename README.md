@@ -11,4 +11,6 @@ A bit more about me:
 - The technologist I most admire is [Doug Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart). His work is as relevant today as it was 50 years ago.
 - My friends tell me I know a little about a lot of things. My interests include startups, AI, software engineering, philosophy, good books of all kinds, design, fitness, typography, psychology, fingerstyle guitar, Brazilian Portuguese, kindness, truth, and other arcana.
 
-If you share interests, do reach out: [@ojoshe on Twitter](https://twitter.com/ojoshe) (best) or josh at holloway dot com.
+Coordinates: [@ojoshe on Twitter](https://twitter.com/ojoshe) (best for DMs), [LinkedIn](https://www.linkedin.com/in/jlevy/), josh at holloway dot com.
+
+Connecting: I'd be glad to hear from you if we share interests. More detail or context in a message helps.
