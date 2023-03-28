@@ -4,7 +4,7 @@ I believe the purpose of technology is to improve our collective intelligence an
 
 A bit more about me:
 
-- Author of a few popular guides, including on [the command line](https://github.com/jlevy/the-art-of-command-line) (which is apparently a top-40 most popular GitHub repo of all time), [equity compensation](https://www.holloway.com/g/equity-compensation), and [AWS](https://github.com/open-guides/og-aws). Editor and publisher on about a dozen books.
+- Author of a few popular guides (2M+ readers), including on [the command line](https://github.com/jlevy/the-art-of-command-line) (which is apparently a top-40 most popular GitHub repo of all time), [equity compensation](https://www.holloway.com/g/equity-compensation), and [AWS](https://github.com/open-guides/og-aws). Editor and publisher on about a dozen books.
 - Started [Holloway](https://www.holloway.com/catalog), a platform that has rebuilt the digital book publishing process with dozens of in-depth, web-based guides in entrepreneurship, creativity, and personal growth. We also publish print books. I love to talk to authors, experts, and anyone who cares about sharing high-value knowledge.
 - Founding engineer and eng leader at several startups in AI, SaaS, and web search (some failed, some successful). 
 - Built conversational AI at SRI with the original Siri team. Built search engines with several ex-Google engineers. Even longer ago, I studied mathematics at Berkeley.
