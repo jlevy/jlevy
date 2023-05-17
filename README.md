@@ -14,4 +14,4 @@ Find me:
 - [**LinkedIn**](https://www.linkedin.com/in/jlevy/)
 - josh at holloway dot com
 
-I'd be glad to hear from you if we share interests. I sometimes fall behind on messages, and more detail or context in a message helps. :)
+I'd be glad to hear from you if we share interests. If you're trying to reach me, note I sometimes fall behind on messages. I don't mind reminders and more detail or context in a message helps. :)
