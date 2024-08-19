@@ -24,6 +24,4 @@ Find me:
 
 - josh at holloway dot com
 
-Please say hello if you think you should! I'd be glad to hear from you if we share interests.
-If you're trying to reach me, note I sometimes fall behind on messages.
-I don't mind reminders and more detail or context in a message helps. :)
+Please say hello if you think you should! I'd be glad to hear from you if we share interests. :)
