@@ -10,7 +10,7 @@ Generally, my interests lie at the intersection of AI, writing, engineering, des
   
 - **Tech:** I’ve worked on conversational AI systems since early days with the original Siri team at SRI. I’ve built search engines with prominent ex-Google engineers. I have a broad interest in the theory, the practice, and the human elements of software engineering, and the history of software and AI.
   
-- **Math and science:** When younger, I thought I would be a professor and did my graduate work in math at Berkeley. Even before that, I majored in physics, math, and computer science.
+- **Math and science:** When younger, I thought I would be a professor. I majored in physics, math, and computer science and did my graduate work in math at Berkeley.
   
 - **Inspiration:** I believe the purpose of technology is to improve our collective knowledge and intelligence and to solve human problems. The technologist I most admire is [Doug Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart). His work is as relevant today as it was 50 years ago. By sharing a vision of what was possible, he shaped how we use software for decades. I feel privileged to have met him a few times.
   
