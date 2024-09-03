@@ -1,12 +1,12 @@
 Hi! A bit about me:
 
-Generally, my interests lie at the intersection of AI, writing, engineering, design, and knowledge tools. In brief:
+Generally, my interests lie at the intersection of AI, writing, engineering, design, and knowledge tools:
 
 - **Recent work:** I started and built most of [Holloway](https://www.holloway.com/catalog), a small startup that has rebuilt the digital book publishing process with dozens of in-depth, web-based guides in entrepreneurship, creativity, and personal growth. We also publish print books. I love to talk to authors, experts, and anyone who cares about sharing high-value knowledge.
 
-- **Writing:** I've written and edited few popular guides (2M+ readers), including [*The Art of Command Line*](https://github.com/jlevy/the-art-of-command-line) (with 150K+ stars one of the top 40 most popular GitHub repos of all time), [equity compensation](https://www.holloway.com/g/equity-compensation), and [AWS](https://github.com/open-guides/og-aws) (was recognized as an "AWS Hero"). I’ve also edited (and published) about a dozen books by other authors.
+- **Writing:** I've written and edited few popular guides (2M+ readers), including [*The Art of Command Line*](https://github.com/jlevy/the-art-of-command-line) (with 150K+ stars one of the top 40 most popular GitHub repos of all time), [equity compensation](https://www.holloway.com/g/equity-compensation), and [AWS](https://github.com/open-guides/og-aws). I’ve also edited (and published) about a dozen books by other authors.
   
-- **Coding:** I've loved programming since I was a kid. I have been a founding engineer and engineering leader at several startups in AI, SaaS, and web search (some failed, some successful) doing a range of backend eng, distributed sysems, devops/cloud, full stack web/React/TypeScript/JS/Node, Python, Java, C/C++. And yes, sometimes older esoteric things like Lisp and Prolog.
+- **Coding:** I've loved programming since I was a kid. I have been a founding engineer and engineering leader at several startups in AI, SaaS, and web search, some failed, some successful (backend/distributed sysems, full stack web/JS/Node/TypeScript/React, Python, Java, C/C++, and older esoteric things like Lisp and Prolog). Also devops—AWS has given me the honor of being an "AWS Hero."
   
 - **Tech:** I’ve worked on conversational AI systems since early days with the original Siri team at SRI. I’ve built search engines with prominent ex-Google engineers. I have a broad interest in the theory, the practice, and the human elements of software engineering, and the history of software and AI.
   
