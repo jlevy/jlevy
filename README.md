@@ -6,7 +6,7 @@ Generally, my interests lie at the intersection of AI, writing, engineering, des
 
 - **Startups and entrepreneurship:** I've been a founding engineer a few times and a founder. I like working with founders and sometimes advise startups. I wrote the most widely read [guide to equity compensation](https://www.holloway.com/g/equity-compensation) in startups.
   
-- **Writing:** I've written and edited few popular guides (2M+ readers), including the equity compensation guide, [*The Art of Command Line*](https://github.com/jlevy/the-art-of-command-line) (with 150K+ stars one of the top 40 most popular GitHub repos of all time), and [AWS](https://github.com/open-guides/og-aws). I’ve also edited (and published) about a dozen books by other authors.
+- **Writing:** I've written and edited few popular guides (2M+ readers), including the equity compensation guide, [*The Art of Command Line*](https://github.com/jlevy/the-art-of-command-line) and [AWS](https://github.com/open-guides/og-aws). I’ve also edited (and published) about a dozen books by other authors.
   
 - **Coding:** I've loved programming since I was a kid. I have been a founding engineer and engineering leader at several startups in AI, SaaS, and web search, some failed, some successful (backend/distributed sysems, full stack web/JS/Node/TypeScript/React, Python, Java, C/C++, and older esoteric things like Lisp and Prolog). Also devops—AWS has given me the honor of being an "AWS Hero."
   
@@ -19,7 +19,7 @@ Generally, my interests lie at the intersection of AI, writing, engineering, des
 Selected open source work:
 
 - [**on-books**](https://github.com/jlevy/on-books): Readings and notes on the past, present, and future of books
-- [**the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page (155K+ stars, available in ~20 languages and one of the top 50 most starred GitHub repos of all time, but in need of an update, which I hope to do soon!)
+- [**the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page (155K+ stars, available in ~20 languages and one of the top 40 most starred GitHub repos of all time, but in need of an update, which I hope to do soon!)
 - [**simple-modern-poetry**](https://github.com/jlevy/simple-modern-poetry): A minimal, modern Python project template (with Poetry 2.0 and ruff/black/mypy/GitHub actions/PyPI publishing)
 - [**frontmatter-format**](https://github.com/jlevy/frontmatter-format): A micro-format for YAML metadata on any file
 - [**flowmark**](https://github.com/jlevy/flowmark): Better line wrapping and formatting for plaintext and Markdown
