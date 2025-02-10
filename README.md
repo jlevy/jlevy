@@ -20,12 +20,12 @@ Selected open source work:
 
 - [**on-books**](https://github.com/jlevy/on-books): Readings and notes on the past, present, and future of books
 - [**the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page (155K+ stars, available in ~20 languages and one of the top 50 most starred GitHub repos of all time, but in need of an update, which I hope to do soon!)
+- [**simple-modern-poetry**](https://github.com/jlevy/simple-modern-poetry): A minimal, modern Python project template (with Poetry 2.0 and ruff/black/mypy/GitHub actions/PyPI publishing)
+- [**frontmatter-format**](https://github.com/jlevy/frontmatter-format): A micro-format for YAML metadata on any file
+- [**flowmark**](https://github.com/jlevy/flowmark): Better line wrapping and formatting for plaintext and Markdown
+- [**prettyfmt**](https://github.com/jlevy/prettyfmt): A tiny library for more beautiful Python outputs
 - [**repren**](https://github.com/jlevy/repren): Rename anything
 - [**strif**](https://github.com/jlevy/strif): Tiny, useful Python lib for strings and files
-- [**frontmatter-format**](https://github.com/jlevy/frontmatter-format): A micro-format for YAML metadata on any file
-- [**prettyfmt**](https://github.com/jlevy/prettyfmt): A tiny library for more beautiful Python outputs
-- [**flowmark**](https://github.com/jlevy/flowmark): Better line wrapping and formatting for plaintext and Markdown
-- [**simple-modern-poetry**](https://github.com/jlevy/simple-modern-poetry): A minimal, modern Python project template using Poetry (this a good place to point new or experienced Python programmers who want to publish open source)
 - [**og-aws**](https://github.com/open-guides/og-aws): A practical guide to Amazon Web Services (35K+ stars, for a while one of the most popular docs ever for AWS)
 - [**og-equity-compensation**](https://github.com/jlevy/og-equity-compensation): Original open source version of a guide to equity compensation for startup employees and founders (9K+ stars)
 
