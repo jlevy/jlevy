@@ -31,10 +31,8 @@ Selected open source work:
 
 Find me:
 
-- [**@ojoshe**](https://twitter.com/ojoshe) on Twitter/X (best for DMs)
-  
+- [**@ojoshe**](https://twitter.com/ojoshe) on Twitter/X (best for DMs) 
 - [**LinkedIn**](https://www.linkedin.com/in/jlevy/)
-
-- josh at holloway dot com
+- see email on my profile
 
 Please say hello if you think you should! I'd be glad to hear from you if we share interests. :)
