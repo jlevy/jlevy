@@ -16,7 +16,7 @@ Generally, my interests lie at the intersection of AI, writing, engineering, des
   
 - **Personal:** I aspire to know a few things about many topics and many things about a few topics. My interests include good books of all kinds, philosophy, psychology, politics and media, startups and entrepreneurship, AI (history and future), product design, typography, software engineering, logic and foundations of mathematics, mental and physical health (and their interactions), fitness and nutrition, running or hiking the mountains and deserts of California, fingerstyle guitar, 15th-18th century lute music, early American blues, Brazilian Portuguese, truth, kindness, and some other arcana. I majored in physics, math, and computer science and my graduate degree is from Berkeley.
 
-Selected open source work:
+Selected open source code and writings:
 
 - [**on-books**](https://github.com/jlevy/on-books): Readings and notes on the past, present, and future of books
 - [**the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page (155K+ stars, available in ~20 languages and one of the top 40 most starred GitHub repos of all time, but in need of an update, which I hope to do soon!)
