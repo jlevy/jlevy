@@ -14,7 +14,20 @@ Generally, my interests lie at the intersection of AI, writing, engineering, des
 
 - **Inspiration:** I believe the purpose of technology is to improve our collective knowledge and intelligence and to solve human problems. The technologist I most admire is [Doug Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart). His work is as relevant today as it was 50 years ago. By sharing a vision of what was possible, he shaped how we use software for decades. I feel privileged to have met him a few times.
   
-- **Random:** I aspire to know a few things about many topics and many things about a few topics. When younger, I thought I would be a professor. I majored in physics, math, and computer science and did my graduate work in math at Berkeley. My interests include good books of all kinds, current culture and politics but in historical context, philosophy, psychology, startups and entrepreneurship, AI (both old school and latest gen AI explosion), product design, typography, software engineering, obscure programming languages, logic and foundations of mathematics, mental and physical health (and their interactions), fitness and nutrition, trail running and wilderness backpacking, natural history (especially of the California mountains and deserts), fingerstyle guitar, 15th-18th century lute music, early American blues, Brazilian Portuguese, truth, kindness, and some other arcana.
+- **Random:** I aspire to know a few things about many topics and many things about a few topics. I majored in physics, math, and computer science and did my graduate work in math at Berkeley. My interests include good books of all kinds, current culture and politics but in historical context, philosophy, psychology, startups and entrepreneurship, AI (both old school and latest gen AI explosion), product design, typography, software engineering, obscure programming languages, logic and foundations of mathematics, mental and physical health (and their interactions), fitness and nutrition, trail running and wilderness backpacking, natural history (especially of the California mountains and deserts), fingerstyle guitar, 15th-18th century lute music, early American blues, Brazilian Portuguese, truth, kindness, and some other arcana.
+
+Selected open source work:
+
+- [**on-books**](https://github.com/jlevy/on-books): Readings and notes on the past, present, and future of books
+- [**the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page (available in ~20 languages and one of the top 50 most starred GitHub repos of all time)
+- [**repren**](https://github.com/jlevy/repren): Rename anything
+- [**strif**](https://github.com/jlevy/strif): Tiny, useful Python lib for strings and files
+- [**frontmatter-format**](https://github.com/jlevy/frontmatter-format): A micro-format for YAML metadata on any file
+- [**prettyfmt**](https://github.com/jlevy/prettyfmt): A tiny library for more beautiful Python outputs
+- [**flowmark**](https://github.com/jlevy/flowmark): Better line wrapping and formatting for plaintext and Markdown
+- [**simple-modern-poetry**](https://github.com/jlevy/simple-modern-poetry): A minimal, modern Python project template using Poetry (this a good place to point new or experienced Python programmers who want to publish open source)
+- [**og-aws**](https://github.com/open-guides/og-aws): A practical guide to Amazon Web Services (35K stars, for a while one of the most popular docs ever for AWS)
+- [**og-equity-compensation**](https://github.com/jlevy/og-equity-compensation): Original open source version of a guide to equity compensation for startup employees and founders (9K stars)
 
 Find me:
 
