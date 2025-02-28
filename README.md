@@ -21,6 +21,7 @@ Selected open source code and writings:
 - [**simple-modern-poetry**](https://github.com/jlevy/simple-modern-poetry): A minimal, modern Python project template (with Poetry 2.0 and ruff/black/mypy/GitHub actions/PyPI publishing)
 - [**frontmatter-format**](https://github.com/jlevy/frontmatter-format): A micro-format for YAML metadata on any file
 - [**flowmark**](https://github.com/jlevy/flowmark): Better line wrapping and formatting for plaintext and Markdown
+- [**funlog**](https://github.com/jlevy/funlog): Simple decorators for logging, timing, and tallying function calls
 - [**prettyfmt**](https://github.com/jlevy/prettyfmt): A tiny library for more beautiful Python outputs
 - [**repren**](https://github.com/jlevy/repren): Rename anything
 - [**strif**](https://github.com/jlevy/strif): Tiny, useful Python lib for strings and files
