@@ -1,8 +1,10 @@
 Hi! In case you want to get to know me, this is your cheat sheet. Generally, my interests lie at the intersection of AI, writing, engineering, design, and knowledge tools:
 
-- **Recent work:** I started and built most of [Holloway](https://www.holloway.com/catalog), a small startup that has rebuilt the digital book publishing process with dozens of in-depth, web-based guides in entrepreneurship, creativity, and personal growth. We also publish print books.
 
-  Lately I'm working on some new AI-native tooling for the command line and Python environments (see below).
+ **Recent work:** (✨new!) Lately I'm working on some new AI-native tooling for the command line and Python environments (see below).
+
+- **Publishing:** I started and built most of [Holloway](https://www.holloway.com/catalog), a small startup that has rebuilt the digital book publishing process with dozens of in-depth, web-based guides in entrepreneurship, creativity, and personal growth. We also publish print books.
+
 
 - **Startups and entrepreneurship:** I've been a founding engineer a few times and a founder. I like working with founders and sometimes consult for or advise selected startups and investors. I wrote the most widely read [guide to equity compensation](https://www.holloway.com/g/equity-compensation) in startups.
   
