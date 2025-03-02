@@ -1,7 +1,6 @@
 Hi! In case you want to get to know me, this is your cheat sheet. Generally, my interests lie at the intersection of AI, writing, engineering, design, and knowledge tools:
 
-
- **Recent work:** (✨new!) Lately I'm working on some new AI-native tooling for the command line and Python environments (see below).
+- **Recent work:** (✨new!) Lately I'm working on some new ideas related to an AI-native command line, and some open source Python tooling for LLM use (see below). Talk to me if you're interested in this!
 
 - **Publishing:** I started and built most of [Holloway](https://www.holloway.com/catalog), a small startup that has rebuilt the digital book publishing process with dozens of in-depth, web-based guides in entrepreneurship, creativity, and personal growth. We also publish print books.
 
