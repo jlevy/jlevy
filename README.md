@@ -1,6 +1,6 @@
 Hi! In case you want to get to know me, this is your cheat sheet. Generally, my interests lie at the intersection of AI, writing, engineering, design, and knowledge tools:
 
-- **Recent work:** *✨new!✨* Lately I'm working on some new ideas related to an AI-native command line, and some open source Python tooling for LLM use (see below). Talk to me if you're interested in this!
+- *✨new!✨* **Recent work:**  Lately I'm working on some new ideas related to an AI-native command line, and some open source Python tooling for LLM use (see below). Talk to me if you're interested in this!
 
 - **Publishing:** I started and built most of [Holloway](https://www.holloway.com/catalog), a small startup that has rebuilt the digital book publishing process with dozens of in-depth, web-based guides in entrepreneurship, creativity, and personal growth. We also publish print books.
 
@@ -19,7 +19,7 @@ Hi! In case you want to get to know me, this is your cheat sheet. Generally, my 
 
 Selected open source code and writings:
 
-Python tools: *✨new!✨*
+*✨new!✨* Python tools: 
 
 - [**simple-modern-uv**](https://github.com/jlevy/simple-modern-uv): A minimal, modern Python project template, good if you're starting a new project, with ruff/black/mypy/GitHub actions/PyPI publishing and now uv
 - [**simple-modern-poetry**](https://github.com/jlevy/simple-modern-poetry): A similar template for Poetry
