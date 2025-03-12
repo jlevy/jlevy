@@ -1,6 +1,6 @@
 Hi! In case you want to get to know me, this is your cheat sheet. Generally, my interests lie at the intersection of AI, writing, engineering, design, and knowledge tools:
 
-- ✨🆕 **Recent work:** Lately I'm working on some new ideas related to an AI-native command line, and some open source Python tooling for LLM use (see below). Talk to me if you're interested in this!
+- **Recent work:** *✨new!✨* Lately I'm working on some new ideas related to an AI-native command line, and some open source Python tooling for LLM use (see below). Talk to me if you're interested in this!
 
 - **Publishing:** I started and built most of [Holloway](https://www.holloway.com/catalog), a small startup that has rebuilt the digital book publishing process with dozens of in-depth, web-based guides in entrepreneurship, creativity, and personal growth. We also publish print books.
 
@@ -19,16 +19,17 @@ Hi! In case you want to get to know me, this is your cheat sheet. Generally, my 
 
 Selected open source code and writings:
 
-✨🆕 Python tools:
+Python tools: *✨new!✨*
 
-- [**simple-modern-poetry**](https://github.com/jlevy/simple-modern-poetry): A minimal, modern Python project template (with Poetry 2.0 and ruff/black/mypy/GitHub actions/PyPI publishing)
+- [**simple-modern-uv**](https://github.com/jlevy/simple-modern-uv): A minimal, modern Python project template, good if you're starting a new project, with ruff/black/mypy/GitHub actions/PyPI publishing and now uv
+- [**simple-modern-poetry**](https://github.com/jlevy/simple-modern-poetry): A similar template for Poetry
+- [**chopdiff**](https://github.com/jlevy/chopdiff): Parsing, diffing, diff filtering, chunking, and windowed transforms of text to support LLM applications
 - [**strif**](https://github.com/jlevy/strif): Tiny, useful Python lib for strings and files
 - [**repren**](https://github.com/jlevy/repren): Rename anything
 - [**frontmatter-format**](https://github.com/jlevy/frontmatter-format): A micro-format for YAML metadata on any file
 - [**flowmark**](https://github.com/jlevy/flowmark): Better line wrapping and formatting for plaintext and Markdown
 - [**funlog**](https://github.com/jlevy/funlog): Simple decorators for logging, timing, and tallying function calls
 - [**prettyfmt**](https://github.com/jlevy/prettyfmt): A tiny library for more beautiful Python outputs
-- [**chopdiff**](https://github.com/jlevy/chopdiff): Parsing, diffing, diff filtering, chunking, and windowed transforms of text to support LLM applications
 
 Other projects:
 
