@@ -21,7 +21,7 @@ Selected open source code and writings:
 
 Python tools:  *✨new!✨* 
 
-- [**simple-modern-uv**](https://github.com/jlevy/simple-modern-uv): A minimal, modern Python project template, good if you're starting a new project, with ruff/black/mypy/GitHub actions/PyPI publishing and now uv (and an older [simple-modern-poetry](https://github.com/jlevy/simple-modern-poetry) for Poetry)
+- [**simple-modern-uv**](https://github.com/jlevy/simple-modern-uv): A minimal, modern Python project template, good if you're starting a new project, with uv/ruff/Pyright/GitHub actions/PyPI publishing  (and an older [simple-modern-poetry](https://github.com/jlevy/simple-modern-poetry) for Poetry)
 - [**chopdiff**](https://github.com/jlevy/chopdiff): Parsing, diffing, diff filtering, chunking, and windowed transforms of text to support LLM applications
 - [**flowmark**](https://github.com/jlevy/flowmark): Better line wrapping and formatting for plaintext and Markdown
 - [**strif**](https://github.com/jlevy/strif): Tiny, useful Python lib for strings and files
