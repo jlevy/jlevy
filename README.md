@@ -21,13 +21,13 @@ Selected open source code and writings:
 
 Python tools:  *✨new!✨* 
 
-- [**simple-modern-uv**](https://github.com/jlevy/simple-modern-uv): A minimal, modern Python project template, good if you're starting a new project, with uv/ruff/Pyright/GitHub actions/PyPI publishing  (and an older [simple-modern-poetry](https://github.com/jlevy/simple-modern-poetry) for Poetry)
+- [**simple-modern-uv**](https://github.com/jlevy/simple-modern-uv): A minimal, modern Python project template, good if you're starting a new project, with uv/ruff/Pyright/GitHub actions/PyPI publishing
+- [**flowmark**](https://github.com/jlevy/flowmark): Better line wrapping and auto-formatting for plaintext and Markdown
 - [**chopdiff**](https://github.com/jlevy/chopdiff): Parsing, diffing, diff filtering, chunking, and windowed transforms of text to support LLM applications
-- [**flowmark**](https://github.com/jlevy/flowmark): Better line wrapping and formatting for plaintext and Markdown
 - [**strif**](https://github.com/jlevy/strif): Tiny, useful Python lib for strings and files
 - [**repren**](https://github.com/jlevy/repren): Rename anything
 - [**frontmatter-format**](https://github.com/jlevy/frontmatter-format): A micro-format for YAML metadata on any file
-- [**funlog**](https://github.com/jlevy/funlog): Simple decorators for logging, timing, and tallying function calls
+- [**funlog**](https://github.com/jlevy/funlog): Minimalist decorators for logging, timing, and tallying function calls
 - [**prettyfmt**](https://github.com/jlevy/prettyfmt): A tiny library for more beautiful Python outputs
 
 Other projects:
