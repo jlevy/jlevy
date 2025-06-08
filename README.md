@@ -24,6 +24,7 @@ Python tools:  *✨new!✨*
 
 - [**simple-modern-uv**](https://github.com/jlevy/simple-modern-uv): A minimal, modern Python project template, good if you're starting a new project, with uv/ruff/Pyright/GitHub actions/PyPI publishing (used by uvinit)
 - [**uvx uvinit**](https://git.new/uvinit): Start a new Python project with one command!
+- [**minify-tw-html**](https://github.com/jlevy/minify-tw-html): Modern JS minification and Tailwind compilation CLI, also available programmatically from Python
 - [**py-app-standalone**](https://github.com/jlevy/py-app-standalone): Standalone, relocatable Python app builds using uv
 - [**flowmark**](https://github.com/jlevy/flowmark): Better auto-formatting for plaintext and Markdown
 - [**chopdiff**](https://github.com/jlevy/chopdiff): Parsing, diffing, diff filtering, chunking, and windowed transforms of text to support LLM applications
