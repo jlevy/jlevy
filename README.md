@@ -33,6 +33,7 @@ Python tools:  *✨new!✨*
 - [**funlog**](https://github.com/jlevy/funlog): Minimalist decorators for logging, timing, and tallying function calls
 - [**prettyfmt**](https://github.com/jlevy/prettyfmt): A tiny library for more beautiful Python outputs
 - [**repren**](https://github.com/jlevy/repren): Rename anything
+- [**simplexng**](https://github.com/jlevy/simplexng): A repackage of the local SearXNG web search engine you can run with one command
 
 Other projects:
 
