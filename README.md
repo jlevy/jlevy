@@ -10,13 +10,15 @@ Generally, my interests lie at the intersection of *AI*, *writing*, *software en
 
 - **AI and software:** I’ve worked on conversational AI systems since early days with the original Siri team at SRI. I’ve built search engines with prominent ex-Google engineers. I have a broad interest in the theory, the practice, and the human elements of software engineering, and the history of software and AI.
 
-- **Startups and entrepreneurship:** I've been a founding engineer a few times and a founder. I like working with founders and sometimes consult for or advise selected startups and investors.
+- **Startups and entrepreneurship:** I've been a founding engineer a few times and a founder. I like working with founders and sometimes consult for or advise startups and investors.
   
 - **Engineering:** I've loved programming since I was a kid. I have been a founding engineer and engineering leader at several startups in AI, SaaS, and web search, some failed, some successful (backend/distributed sysems, full stack web/JS/Node/TypeScript/React, Python, Java, C/C++, and older esoteric things like Lisp and Prolog). Also devops—AWS has given me the honor of being an "AWS Hero."
 
 - **Inspiration:** I believe the purpose of technology is to improve our collective knowledge and intelligence and to solve human problems. The technologist I most admire is [Doug Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart). His work is as relevant today as it was 50 years ago. By sharing a vision of what was possible, he shaped how we use software for decades. I feel privileged to have met him a few times.
-  
-- **Personal:** I aspire to know a few things about many topics and many things about a few topics. My interests include good books of all kinds, philosophy, psychology, politics and media, startups and entrepreneurship, AI (history and future), product design, typography, software engineering, logic and foundations of mathematics, mental and physical health (and their interactions), fitness and nutrition, running or hiking the mountains and deserts of California, fingerstyle guitar, 15th-18th century lute music, early American blues, Brazilian Portuguese, truth, kindness, and some other arcana. I majored in physics, math, and computer science and my graduate degree is from Berkeley.
+
+- **Values:** There is great beauty in understanding the essential complexity of life. But the opposite of a great truth is another great truth: what matters is also simple—truth, helpfulness, and kindness.
+
+- **Miscellaneous:** I aim to know a few things about many topics and many things about a few topics. I majored in physics, math, and computer science and my graduate degree is from Berkeley. I like to think or talk about good books of all kinds, philosophy, psychology, politics and media, startups and entrepreneurship, AI (history and future), product design, typography, software engineering, logic and foundations of mathematics, mental and physical health (and their interactions), fitness and nutrition, running or hiking the mountains and deserts of California, fingerstyle guitar, 15th-18th century lute music, early American blues, Brazilian Portuguese, truth, kindness, and some other arcana. 
 
 Selected open source code and writings:
 
