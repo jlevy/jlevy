@@ -1,4 +1,6 @@
-Hi! In case you want to get to know me, this is your cheat sheet. Generally, my interests lie at the intersection of AI, writing, engineering, design, and knowledge tools:
+Hi! In case you want to get to know me or my work, this is a cheat sheet.
+
+Generally, my interests lie at the intersection of *AI*, *writing*, *software engineering*, *design*, and *knowledge tools*:
 
 - **Recent work:**  *✨new!✨*  Lately I'm working on some new ideas for knowledge tools, including an AI-native command line, some open source Python libraries for LLM, and tools related to uv. (See below and do reach out you're interested or have ideas related to any of these!)
 
