@@ -1,15 +1,14 @@
 Hi! In case you want to get to know me, this is your cheat sheet. Generally, my interests lie at the intersection of AI, writing, engineering, design, and knowledge tools:
 
-- **Recent work:**  *✨new!✨*  Lately I'm working on some new ideas related to an AI-native command line, and some open source Python tooling for LLM use (see below). Talk to me if you're interested in this!
+- **Recent work:**  *✨new!✨*  Lately I'm working on some new ideas for knowledge tools, including an AI-native command line, some open source Python libraries for LLM, and tools related to uv. (See below and do reach out you're interested or have ideas related to any of these!)
+
+- **Writing and open source:** I’ve edited (and published) about a dozen books and I've written a few popular guides (2M+ readers), including the [*The Holloway Guide to Equity Compensation*](https://www.holloway.com/g/equity-compensation) (the most widely read guide to equity compensation in startups), [*The Art of Command Line*](https://github.com/jlevy/the-art-of-command-line) (>150K stars on GitHub), and [a guide to AWS](https://github.com/open-guides/og-aws). And I've written an number of open source libraries in Python. Popularity isn't the best measure of value, but I'm [in the top 20](https://gitstar-ranking.com/users) most-starred accounts on GitHub.
 
 - **Publishing:** I started and built most of [Holloway](https://www.holloway.com/catalog), a small startup that has rebuilt the digital book publishing process with dozens of in-depth, web-based guides in entrepreneurship, creativity, and personal growth. We also publish print books.
 
+- **AI and software:** I’ve worked on conversational AI systems since early days with the original Siri team at SRI. I’ve built search engines with prominent ex-Google engineers. I have a broad interest in the theory, the practice, and the human elements of software engineering, and the history of software and AI.
 
-- **Startups and entrepreneurship:** I've been a founding engineer a few times and a founder. I like working with founders and sometimes consult for or advise selected startups and investors. I wrote the most widely read [guide to equity compensation](https://www.holloway.com/g/equity-compensation) in startups.
-  
-- **Writing:** I've written and edited few popular guides (2M+ readers), including the equity compensation guide, [*The Art of Command Line*](https://github.com/jlevy/the-art-of-command-line) and [AWS](https://github.com/open-guides/og-aws). I’ve also edited (and published) about a dozen books by other authors.
-
-- **Tech:** I’ve worked on conversational AI systems since early days with the original Siri team at SRI. I’ve built search engines with prominent ex-Google engineers. I have a broad interest in the theory, the practice, and the human elements of software engineering, and the history of software and AI.
+- **Startups and entrepreneurship:** I've been a founding engineer a few times and a founder. I like working with founders and sometimes consult for or advise selected startups and investors.
   
 - **Engineering:** I've loved programming since I was a kid. I have been a founding engineer and engineering leader at several startups in AI, SaaS, and web search, some failed, some successful (backend/distributed sysems, full stack web/JS/Node/TypeScript/React, Python, Java, C/C++, and older esoteric things like Lisp and Prolog). Also devops—AWS has given me the honor of being an "AWS Hero."
 
@@ -19,8 +18,7 @@ Hi! In case you want to get to know me, this is your cheat sheet. Generally, my 
 
 Selected open source code and writings:
 
-Python tools:  *✨new!✨* 
-
+Some modern Python tools:  *✨new!✨* 
 
 - [**simple-modern-uv**](https://github.com/jlevy/simple-modern-uv): A minimal, modern Python project template, good if you're starting a new project, with uv/ruff/Pyright/GitHub actions/PyPI publishing (used by uvinit)
 - [**uvx uvinit**](https://git.new/uvinit): Start a new Python project with one command!
