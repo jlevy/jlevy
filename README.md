@@ -18,7 +18,9 @@ Generally, my interests lie at the intersection of *AI*, *writing*, *software en
 
 - **Inspiration:** I believe the purpose of technology is to improve our collective knowledge and intelligence and to solve human problems. The technologist I most admire is [Doug Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart). His work is as relevant today as it was 50 years ago. By sharing a vision of what was possible, he shaped how we use software for decades. I feel privileged to have met him a few times.
 
-- **Values:** There is great beauty in understanding the essential complexity of life. But the opposite of a great truth is another great truth: what matters is also simple—truth, helpfulness, and kindness.
+### Personal
+
+- **Values:** There is great beauty in understanding the essential complexity of life. But the opposite of a great truth is another great truth: what matters is simple—truth, helpfulness, and kindness.
 
 - **Miscellaneous:** I aim to know a few things about many topics and many things about a few topics. I majored in physics, math, and computer science and my graduate degree is from Berkeley. I like to think or talk about good books of all kinds, philosophy, psychology, politics and media, startups and entrepreneurship, AI (history and future), product design, typography, software engineering, logic and foundations of mathematics, mental and physical health (and their interactions), fitness and nutrition, running or hiking the mountains and deserts of California, fingerstyle guitar, 15th-18th century lute music, early American blues, Brazilian Portuguese, truth, kindness, and some other arcana. 
 
