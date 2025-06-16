@@ -6,7 +6,7 @@ Generally, my interests lie at the intersection of *AI*, *writing*, *software en
 
 - **Recent work:**  *✨new!✨*  Lately I'm working on some new ideas for knowledge tools, including an AI-native command line, some open source Python libraries for LLM, and tools related to uv. (See below and do reach out you're interested or have ideas related to any of these!)
 
-- **Writing and open source:** I’ve edited (and published) about a dozen books and I've written a few popular guides (2M+ readers), including the [*The Holloway Guide to Equity Compensation*](https://www.holloway.com/g/equity-compensation) (the most widely read guide to equity compensation in startups), [*The Art of Command Line*](https://github.com/jlevy/the-art-of-command-line) (>150K stars on GitHub), and [a guide to AWS](https://github.com/open-guides/og-aws). And I've written an number of open source libraries in Python. Popularity isn't the best measure of value, but I'm [in the top 20](https://gitstar-ranking.com/users) most-starred accounts on GitHub.
+- **Writing and open source:** I’ve edited (and published) about a dozen books and I've written a few popular guides (2M+ readers), including the [*The Holloway Guide to Equity Compensation*](https://www.holloway.com/g/equity-compensation) (the most widely read guide to equity compensation in startups), [*The Art of Command Line*](https://github.com/jlevy/the-art-of-command-line) (150K+ stars on GitHub), and [a guide to AWS](https://github.com/open-guides/og-aws). And I've written an number of open source libraries in Python. Popularity isn't the best measure of value, but I'm [in the top 20](https://gitstar-ranking.com/users) most-starred accounts on GitHub.
 
 - **Publishing:** I started and built most of [Holloway](https://www.holloway.com/catalog), a small startup that has rebuilt the digital book publishing process with dozens of in-depth, web-based guides in entrepreneurship, creativity, and personal growth. We also publish print books.
 
@@ -42,7 +42,7 @@ Some modern Python tools:  *✨new!✨*
 Other projects:
 
 - [**on-books**](https://github.com/jlevy/on-books): Readings and notes on the past, present, and future of books
-- [**the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page (155K+ stars, available in ~20 languages and one of the top 40 most starred GitHub repos of all time, but in need of an update, which I hope to do soon!)
+- [**the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page (150K+ stars, available in ~20 languages and one of the top 40 most starred GitHub repos of all time, but in need of an update, which I hope to do soon!)
 - [**og-aws**](https://github.com/open-guides/og-aws): A practical guide to Amazon Web Services (35K+ stars, for a while one of the most popular docs ever for AWS)
 - [**og-equity-compensation**](https://github.com/jlevy/og-equity-compensation): Original open source version of a guide to equity compensation for startup employees and founders (9K+ stars)
 
