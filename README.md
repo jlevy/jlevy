@@ -1,6 +1,6 @@
 Hi! In case you want to get to know me or my work, this is a cheat sheet.
 
-### Work
+### Work and Interests
 
 Generally, my interests lie at the intersection of *AI*, *writing*, *software engineering*, *design*, and *knowledge tools*:
 
