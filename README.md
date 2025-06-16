@@ -1,5 +1,7 @@
 Hi! In case you want to get to know me or my work, this is a cheat sheet.
 
+## Work
+
 Generally, my interests lie at the intersection of *AI*, *writing*, *software engineering*, *design*, and *knowledge tools*:
 
 - **Recent work:**  *✨new!✨*  Lately I'm working on some new ideas for knowledge tools, including an AI-native command line, some open source Python libraries for LLM, and tools related to uv. (See below and do reach out you're interested or have ideas related to any of these!)
@@ -20,7 +22,7 @@ Generally, my interests lie at the intersection of *AI*, *writing*, *software en
 
 - **Miscellaneous:** I aim to know a few things about many topics and many things about a few topics. I majored in physics, math, and computer science and my graduate degree is from Berkeley. I like to think or talk about good books of all kinds, philosophy, psychology, politics and media, startups and entrepreneurship, AI (history and future), product design, typography, software engineering, logic and foundations of mathematics, mental and physical health (and their interactions), fitness and nutrition, running or hiking the mountains and deserts of California, fingerstyle guitar, 15th-18th century lute music, early American blues, Brazilian Portuguese, truth, kindness, and some other arcana. 
 
-Selected open source code and writings:
+## Projects
 
 Some modern Python tools:  *✨new!✨* 
 
@@ -44,9 +46,9 @@ Other projects:
 - [**og-aws**](https://github.com/open-guides/og-aws): A practical guide to Amazon Web Services (35K+ stars, for a while one of the most popular docs ever for AWS)
 - [**og-equity-compensation**](https://github.com/jlevy/og-equity-compensation): Original open source version of a guide to equity compensation for startup employees and founders (9K+ stars)
 
-Find me:
+## If You'd Like to Talk
 
-- [**@ojoshe**](https://twitter.com/ojoshe) on Twitter/X (best for DMs) 
+- [**@ojoshe**](https://twitter.com/ojoshe) on Twitter/X (this is best for DMs) 
 - [**LinkedIn**](https://www.linkedin.com/in/jlevy/)
 - see email on my profile
 
