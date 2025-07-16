@@ -41,6 +41,12 @@ Some modern Python tools:  *✨new!✨*
 - [**repren**](https://github.com/jlevy/repren): Rename anything
 - [**simplexng**](https://github.com/jlevy/simplexng): A repackage of the local SearXNG web search engine you can run with one command
 
+A few new writings (these are rough and would appreciate feedback)
+
+- [*The Philosophy of Command Line*](https://github.com/jlevy/the-philosophy-of-command-line): Some philosophical reflections on software
+- [*Linters for Thought*](https://github.com/jlevy/lft): Reflections on Software Engineering and Collective Intelligence (draft!)
+
+
 Other projects:
 
 - [**on-books**](https://github.com/jlevy/on-books): Readings and notes on the past, present, and future of books
