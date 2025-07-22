@@ -68,44 +68,57 @@ engineering*, *design*, and *knowledge tools*:
 
 ### Projects
 
-Some modern Python tools: *✨new!✨*
+Some new projects (mostly Python): *✨new!✨*
 
-- [**flowmark**](https://github.com/jlevy/flowmark): Better auto-formatting for
-  plaintext and Markdown
+- New knowledge tools
 
-- [**chopdiff**](https://github.com/jlevy/chopdiff): Parsing, diffing, diff filtering,
-  chunking, and windowed transforms of text to support LLM applications
+  - [**Kash**](https://github.com/jlevy/kash): A new kind of shell (experimental but
+    usable!)
 
-- [**strif**](https://github.com/jlevy/strif): Tiny, useful Python lib for strings and
-  files
+  - [**Textpress**](https://github.com/jlevy/textpress): Simple publishing for complex
+    ideas
 
-- [**simple-modern-uv**](https://github.com/jlevy/simple-modern-uv): A minimal, modern
-  Python project template, good if you’re starting a new project, with
-  uv/ruff/Pyright/GitHub actions/PyPI publishing (used by uvinit)
+  - [**simplexng**](https://github.com/jlevy/simplexng): A repackage of the local
+    SearXNG web search engine you can run with one command
 
-- [**uvx uvinit**](https://git.new/uvinit): Start a new Python project with one command
+- Document/Text/LLM libraries
 
-- [**minify-tw-html**](https://github.com/jlevy/minify-tw-html): Modern JS/CSS/HTML
-  minification with terser plus Tailwind v4 compilation as a CLI and Python library
+  - [**flowmark**](https://github.com/jlevy/flowmark): Better auto-formatting for
+    Markdown
 
-- [**py-app-standalone**](https://github.com/jlevy/py-app-standalone): Standalone,
-  relocatable Python app builds using uv
+  - [**chopdiff**](https://github.com/jlevy/chopdiff): Parsing, diffing, diff filtering,
+    chunking, and windowed transforms of text to support LLM applications
 
-- [**frontmatter-format**](https://github.com/jlevy/frontmatter-format): A micro-format
-  for YAML metadata on any file
+  - [**minify-tw-html**](https://github.com/jlevy/minify-tw-html): Modern JS/CSS/HTML
+    minification with terser plus Tailwind v4 compilation as a CLI and Python library
 
-- [**funlog**](https://github.com/jlevy/funlog): Minimalist decorators for logging,
-  timing, and tallying function calls
+  - [**frontmatter-format**](https://github.com/jlevy/frontmatter-format): A
+    micro-format for YAML metadata on any file
 
-- [**prettyfmt**](https://github.com/jlevy/prettyfmt): A tiny library for more beautiful
-  Python outputs
+  - [**repren**](https://github.com/jlevy/repren): Rename anything
 
-- [**repren**](https://github.com/jlevy/repren): Rename anything
+- Python infra
 
-- [**simplexng**](https://github.com/jlevy/simplexng): A repackage of the local SearXNG
-  web search engine you can run with one command
+  - [**simple-modern-uv**](https://github.com/jlevy/simple-modern-uv): A minimal, modern
+    Python project template, good if you’re starting a new project, with
+    uv/ruff/Pyright/GitHub actions/PyPI publishing (used by uvinit)
 
-A few new writings (these are rough and would appreciate feedback)
+  - [**uvx uvinit**](https://git.new/uvinit): Start a new Python project with one
+    command
+
+  - [**py-app-standalone**](https://github.com/jlevy/py-app-standalone): Standalone,
+    relocatable Python app builds using uv
+
+  - [**strif**](https://github.com/jlevy/strif): Tiny, useful Python lib for strings and
+    files
+
+  - [**funlog**](https://github.com/jlevy/funlog): Minimalist decorators for logging,
+    timing, and tallying function calls
+
+  - [**prettyfmt**](https://github.com/jlevy/prettyfmt): A tiny library for more
+    beautiful Python outputs
+
+A few new writings (these are rough and would appreciate feedback) *✨new!✨*
 
 - [*The Philosophy of Command
   Line*](https://github.com/jlevy/the-philosophy-of-command-line): Some philosophical
@@ -131,11 +144,11 @@ Other projects:
   Original open source version of a guide to equity compensation for startup employees
   and founders (9K+ stars)
 
-### If You’d Like to Talk
+### Reaching Me
 
 - [**@ojoshe**](https://twitter.com/ojoshe) on Twitter/X (this is best for DMs)
 
-- [**LinkedIn**](https://www.linkedin.com/in/jlevy/)
+- [**LinkedIn**](https://www.linkedin.com/in/jlevy/) (slow on messages here but I try)
 
 - see email on my profile
 
