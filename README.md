@@ -89,11 +89,10 @@ Some new projects (mostly Python): *✨new!✨*
   - [**chopdiff**](https://github.com/jlevy/chopdiff): Parsing, diffing, diff filtering,
     chunking, and windowed transforms of text to support LLM applications
 
-  - [**minify-tw-html**](https://github.com/jlevy/minify-tw-html): Modern JS/CSS/HTML
+  - [**tminify**](https://github.com/jlevy/tminify): Modern JS/CSS/HTML
     minification with terser plus Tailwind v4 compilation as a CLI and Python library
 
-  - [**frontmatter-format**](https://github.com/jlevy/frontmatter-format): A
-    micro-format for YAML metadata on any file
+  - [**frontmatter-format**](https://github.com/jlevy/frontmatter-format) and [**sidematter-format**](https://github.com/jlevy/sidematter-format): Simple conventions and formats for metadata and assets on any file or alongside any file
 
   - [**repren**](https://github.com/jlevy/repren): Rename anything
 
