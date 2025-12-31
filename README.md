@@ -72,9 +72,9 @@ Some new projects: *✨new!✨*
 
 - New agent coding tools
 
-  - [Markform](https://github.com/jlevy/markform): Structured Markdown documents for agents and humans
+  - [**Markform**](https://github.com/jlevy/markform): Structured Markdown documents for agents and humans
     
-  - [Speculate](https://github.com/jlevy/speculate): Extensive doc library and project structure for spec-driven agent coding
+  - [**Speculate**](https://github.com/jlevy/speculate): Extensive doc library and project structure for spec-driven agent coding
 
 - New knowledge and content tools
 
