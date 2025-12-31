@@ -68,7 +68,7 @@ engineering*, *design*, and *knowledge tools*:
 
 ### Projects
 
-Some new projects (mostly Python): *✨new!✨*
+Some new projects: *✨new!✨*
 
 - New agent coding tools
 
