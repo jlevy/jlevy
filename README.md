@@ -70,11 +70,13 @@ engineering*, *design*, and *knowledge tools*:
 
 Some new projects: *✨new!✨*
 
-- New agent coding tools
+- New tools to help with agent coding (and some that were fully agent coded)
 
   - [**Markform**](https://github.com/jlevy/markform): Structured Markdown documents for agents and humans
     
   - [**Speculate**](https://github.com/jlevy/speculate): Extensive doc library and project structure for spec-driven agent coding
+ 
+  - [**tryscript**](https://github.com/jlevy/tryscript): Golden testing for CLI apps (very useful for helping agents write CLIs for agents!)
 
 - New knowledge and content tools
 
