@@ -108,9 +108,9 @@ Some new projects: *✨new!✨*
 
   - [**simple-modern-uv**](https://github.com/jlevy/simple-modern-uv): A minimal, modern
     Python project template, good if you’re starting a new project, with
-    uv/ruff/Pyright/GitHub actions/PyPI publishing (used by uvinit)
+    uv/ruff/Pyright/GitHub actions/PyPI publishing (used by uvtemplate)
 
-  - [**uvx uvinit**](https://git.new/uvinit): Start a new Python project with one
+  - [**uvx uvtemplate**](https://github.com/jlevy/uvtemplate): Start a new Python project with one
     command
 
   - [**py-app-standalone**](https://github.com/jlevy/py-app-standalone): Standalone,
