@@ -72,6 +72,8 @@ Some new projects: *✨new!✨*
 
 - New tools to help with agent coding (and some that were fully agent coded)
 
+  - [**tbd**](https://github.com/jlevy/tbd): Git-native issue tracking for AI agents and humans, inspired by beads
+  
   - [**Markform**](https://github.com/jlevy/markform): Structured Markdown documents for agents and humans
     
   - [**Speculate**](https://github.com/jlevy/speculate): Extensive doc library and project structure for spec-driven agent coding
