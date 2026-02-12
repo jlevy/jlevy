@@ -5,7 +5,7 @@ Hi! In case you want to get to know me or my work, this is a cheat sheet.
 Generally, my interests lie at the intersection of *AI*, *writing*, *software
 engineering*, *design*, and *knowledge tools*:
 
-- **Recent work:** *✨NEW!✨* Lately I’m working agent coding *a lot*, especially on:
+- *✨NEW!✨* **Recent work:** Lately I’m working agent coding *a lot*, especially on:
   - Accurate reasoning and prediction with agents
   - Agents for financial analyses
   - Next-gen agent coding tools, including [**tbd**](https://github.com/jlevy/tbd) and [**Markform**](https://github.com/jlevy/markform)
