@@ -5,10 +5,12 @@ Hi! In case you want to get to know me or my work, this is a cheat sheet.
 Generally, my interests lie at the intersection of *AI*, *writing*, *software
 engineering*, *design*, and *knowledge tools*:
 
-- **Recent work:** *✨new!✨* Lately I’m working on some new ideas for knowledge tools,
-  including an AI-native command line, some open source Python libraries for LLM, and
-  tools related to uv.
-  (See below and do reach out you’re interested or have ideas related to any of these!)
+- **Recent work:** *✨NEW!✨* Lately I’m working agent coding *a lot*, especially on:
+  - Accurate reasoning and prediction with agents
+  - Agents for financial analyses
+  - Next-gen agent coding tools, including [**tbd**](https://github.com/jlevy/tbd) and [**Markform**](https://github.com/jlevy/markform)
+  - Other fun terminal or knowledge tools, such as [a tool to measure your writing style](https://github.com/jlevy/leximetry)
+    and [a powerful, Python-based AI-native shell](https://github.com/jlevy/kash) (See below and do reach out you’re interested or have ideas related to any of these!)
 
 - **Writing and open source:** I’ve edited (and published) about a dozen books and I’ve
   written a few popular guides (2M+ readers), including the [*The Holloway Guide to
