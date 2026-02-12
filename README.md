@@ -5,10 +5,10 @@ Hi! In case you want to get to know me or my work, this is a cheat sheet.
 Generally, my interests lie at the intersection of *AI*, *writing*, *software
 engineering*, *design*, and *knowledge tools*:
 
-- *✨NEW!✨* **Recent work:** Lately I’m working agent coding *a lot*, especially on:
+- *✨NEW!✨* **Recent work:** Lately I’m agent coding *a lot*, especially on:
   - Accurate reasoning and prediction with agents
   - Agents for financial analyses
-  - Next-gen agent coding tools, including [**tbd**](https://github.com/jlevy/tbd) and [**Markform**](https://github.com/jlevy/markform)
+  - Agent coding tools for scaling high-quality 100% agent-written code: [**tbd**](https://github.com/jlevy/tbd) and [**Markform**](https://github.com/jlevy/markform)
   - Other fun terminal or knowledge tools, such as [a tool to measure your writing style](https://github.com/jlevy/leximetry)
     and [a powerful, Python-based AI-native shell](https://github.com/jlevy/kash) (See below and do reach out you’re interested or have ideas related to any of these!)
 
