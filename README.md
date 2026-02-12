@@ -72,7 +72,7 @@ Some new projects:
 
 - Agent coding *✨NEWEST!✨*
 
-  - [**tbd**](https://github.com/jlevy/tbd): Git-native issue tracking for AI agents and humans, inspired by beads *✨new!✨*
+  - [**tbd**](https://github.com/jlevy/tbd): Agent coding power tool with better beads, knowledge injection *👈check it out, what I use every day now for agent coding*
   
   - [**Markform**](https://github.com/jlevy/markform): Structured Markdown documents for agents and humans
     
