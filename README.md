@@ -68,11 +68,11 @@ engineering*, *design*, and *knowledge tools*:
 
 ### Projects
 
-Some new projects: *✨new!✨*
+Some new projects:
 
-- New tools to help with agent coding (and some that were fully agent coded)
+- Agent coding *✨NEWEST!✨*
 
-  - [**tbd**](https://github.com/jlevy/tbd): Git-native issue tracking for AI agents and humans, inspired by beads
+  - [**tbd**](https://github.com/jlevy/tbd): Git-native issue tracking for AI agents and humans, inspired by beads *✨new!✨*
   
   - [**Markform**](https://github.com/jlevy/markform): Structured Markdown documents for agents and humans
     
@@ -80,33 +80,26 @@ Some new projects: *✨new!✨*
  
   - [**tryscript**](https://github.com/jlevy/tryscript): Golden testing for CLI apps (very useful for helping agents write CLIs for agents!)
 
-- New knowledge and content tools
-
-  - [**Kash**](https://github.com/jlevy/kash): A new kind of shell (experimental but
-    usable!)
-
-  - [**Textpress**](https://github.com/jlevy/textpress): Simple publishing for complex
-    ideas
-
-  - [**simplexng**](https://github.com/jlevy/simplexng): A repackage of the local
-    SearXNG web search engine you can run with one command
-
-- Document/Text/LLM libraries
+- Document, text, and LLM libraries  *✨NEW!✨*
 
   - [**flowmark**](https://github.com/jlevy/flowmark): Better auto-formatting for
     Markdown
 
+  - [**repren**](https://github.com/jlevy/repren): Rename anything
+    
   - [**chopdiff**](https://github.com/jlevy/chopdiff): Parsing, diffing, diff filtering,
     chunking, and windowed transforms of text to support LLM applications
 
-  - [**tminify**](https://github.com/jlevy/tminify): Modern JS/CSS/HTML
-    minification with terser plus Tailwind v4 compilation as a CLI and Python library
-
   - [**frontmatter-format**](https://github.com/jlevy/frontmatter-format) and [**sidematter-format**](https://github.com/jlevy/sidematter-format): Simple conventions and formats for metadata and assets on any file or alongside any file
 
-  - [**repren**](https://github.com/jlevy/repren): Rename anything
+- Knowledge and content tools *✨NEW!✨*
 
-- Python infra
+  - [**Kash**](https://github.com/jlevy/kash): A new kind of shell with powerful media and content processing capabilities (experimental but I use it a lot and has some cool ideas!)
+
+  - [**Textpress**](https://github.com/jlevy/textpress): Simple publishing for complex
+    ideas
+
+- Modern Python infra
 
   - [**simple-modern-uv**](https://github.com/jlevy/simple-modern-uv): A minimal, modern
     Python project template, good if you’re starting a new project, with
@@ -126,6 +119,14 @@ Some new projects: *✨new!✨*
 
   - [**prettyfmt**](https://github.com/jlevy/prettyfmt): A tiny library for more
     beautiful Python outputs
+
+- Handy hacks wrapping useful projects
+
+  - [**tminify**](https://github.com/jlevy/tminify): Modern JS/CSS/HTML
+    minification with terser plus Tailwind v4 compilation as a CLI and Python library
+
+  - [**simplexng**](https://github.com/jlevy/simplexng): A repackage of the local
+    SearXNG web search engine you can run with one command
 
 A few new writings (these are rough and would appreciate feedback) *✨new!✨*
 
