@@ -5,9 +5,9 @@ Hi! In case you want to get to know me or my work, this is a cheat sheet.
 Generally, my interests lie at the intersection of *AI*, *writing*, *software
 engineering*, *design*, and *knowledge tools*:
 
-- ***✨NEW!✨*** Lately, I’m agent coding *a lot*, especially on:
-  - Agent coding tools for scaling high-quality 100% agent-written code or agent workflows
-    - Check out [**tbd**](https://github.com/jlevy/tbd) and [**Markform**](https://github.com/jlevy/markform)
+- ***✨NEW!✨*** Lately, I’m focusing on workflows for agent work and agent coding:
+  - A new beads replacement with spec-driven tools: [**tbd**](https://github.com/jlevy/tbd)
+  - A new approach to research workflows: [**Markform**](https://github.com/jlevy/markform)
   - Accurate reasoning and prediction with agents
   - Agents for financial analyses
   - Other fun terminal or knowledge tools, such as [a tool to measure your writing style](https://github.com/jlevy/leximetry)
