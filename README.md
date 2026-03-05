@@ -85,8 +85,7 @@ Some new projects:
 
 - Document, text, and LLM libraries  *✨NEW!✨*
 
-  - [**flowmark**](https://github.com/jlevy/flowmark): Better auto-formatting for
-    Markdown
+  - [**flowmark**](https://github.com/jlevy/flowmark) (Python) and [**flowmark-rs**](https://github.com/jlevy/flowmark-rs) (auto-port to Rust): The most advanced (and now fastest) auto-formatter for Markdown
 
   - [**repren**](https://github.com/jlevy/repren): Rename anything
     
