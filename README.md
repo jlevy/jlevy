@@ -6,22 +6,25 @@ Generally, my interests lie at the intersection of *AI*, *writing*, *software
 engineering*, *design*, and *knowledge tools*:
 
 - ***✨NEW!✨*** Lately, I’m focusing on workflows for agent work and agent coding:
-  - A new beads replacement with spec-driven tools: [**tbd**](https://github.com/jlevy/tbd)
-  - A new approach to research workflows: [**Markform**](https://github.com/jlevy/markform)
-  - Accurate reasoning and prediction with agents
-  - Agents for financial analyses
-  - Other fun terminal or knowledge tools, such as [a tool to measure your writing style](https://github.com/jlevy/leximetry)
-    and [a powerful, Python-based AI-native shell](https://github.com/jlevy/kash) (See below and do reach out you’re interested or have ideas related to any of these!)
+  - A new beads replacement with spec-driven tools:
+    [**tbd**](https://github.com/jlevy/tbd)
+  - A new approach to research workflows:
+    [**Markform**](https://github.com/jlevy/markform)
+  - Accurate reasoning and prediction with agents, including for financial analyses
+  - Other fun CLI or knowledge tools, such as
+    [a tool to measure your writing style](https://github.com/jlevy/leximetry) and
+    [kash, a powerful, Python-based AI-native shell](https://github.com/jlevy/kash) (See
+    below and do reach out you’re interested or have ideas related to any of these!)
 
 - **Writing and open source:** I’ve edited (and published) about a dozen books and I’ve
-  written a few popular guides (2M+ readers), including the [*The Holloway Guide to
-  Equity Compensation*](https://www.holloway.com/g/equity-compensation) (the most widely
-  read guide to equity compensation in startups), [*The Art of Command
-  Line*](https://github.com/jlevy/the-art-of-command-line) (150K+ stars on GitHub), and
-  [a guide to AWS](https://github.com/open-guides/og-aws).
+  written a few popular guides (2M+ readers), including the
+  [*The Holloway Guide to Equity Compensation*](https://www.holloway.com/g/equity-compensation)
+  (the most widely read guide to equity compensation in startups),
+  [*The Art of Command Line*](https://github.com/jlevy/the-art-of-command-line) (150K+
+  stars on GitHub), and [a guide to AWS](https://github.com/open-guides/og-aws).
   And I’ve written an number of open source libraries in Python.
-  Popularity isn’t the best measure of value, but I’m [in the top
-  20](https://gitstar-ranking.com/users) most-starred accounts on GitHub.
+  Popularity isn’t the best measure of value, but I’m
+  [in the top 20](https://gitstar-ranking.com/users) most-starred accounts on GitHub.
 
 - **Publishing:** I started and built most of
   [Holloway](https://www.holloway.com/catalog), a small startup that has rebuilt the
@@ -55,9 +58,8 @@ engineering*, *design*, and *knowledge tools*:
 
 ### Personal
 
-- **Values:** There is great beauty in understanding the essential complexity of life.
-  But the opposite of a great truth is another great truth: what matters is
-  simple—truth, helpfulness, and kindness.
+- **Values:** There is beauty in understanding the deep and essential complexity of the
+  world. But what ultimately matters is simple—kindness and human connection.
 
 - **Miscellaneous:** I aim to know a few things about many topics and many things about
   a few topics. I majored in physics, math, and computer science and my graduate degree
@@ -75,28 +77,42 @@ Some new projects:
 
 - Agent coding *✨NEWEST!✨*
 
-  - [**tbd**](https://github.com/jlevy/tbd): Agent coding power tool with better beads, knowledge injection *👈check it out, what I use every day now for agent coding*
-  
-  - [**Markform**](https://github.com/jlevy/markform): Structured Markdown documents for agents and humans
-    
-  - [**Speculate**](https://github.com/jlevy/speculate): Extensive doc library and project structure for spec-driven agent coding
- 
-  - [**tryscript**](https://github.com/jlevy/tryscript): Golden testing for CLI apps (very useful for helping agents write CLIs for agents!)
+  - [**rust-porting-playbook**](https://github.com/jlevy/rust-porting-playbook): An
+    extensive agent playbook for automated porting of Python to Rust
 
-- Document, text, and LLM libraries  *✨NEW!✨*
+  - [**tbd**](https://github.com/jlevy/tbd): Agent coding power tool with better beads,
+    knowledge injection *👈check it out, what I use every day now for agent coding*
 
-  - [**flowmark**](https://github.com/jlevy/flowmark) (Python) and [**flowmark-rs**](https://github.com/jlevy/flowmark-rs) (auto-port to Rust): The most advanced (and now fastest) auto-formatter for Markdown
+  - [**tryscript**](https://github.com/jlevy/tryscript): Golden testing for CLI apps
+    (very useful for helping agents write CLIs for agents!)
 
-  - [**repren**](https://github.com/jlevy/repren): Rename anything
-    
+  - [**Markform**](https://github.com/jlevy/markform): Structured Markdown documents for
+    agents and humans
+
+  - [**Speculate**](https://github.com/jlevy/speculate): Extensive doc library and
+    project structure for spec-driven agent coding
+
+- Document, text, and LLM libraries *✨NEW!✨*
+
+  - [**repren**](https://github.com/jlevy/repren): Agent-friendly bulk replace/rename
+    tool
+
+  - [**flowmark**](https://github.com/jlevy/flowmark) (Python) and
+    [**flowmark-rs**](https://github.com/jlevy/flowmark-rs) (auto-port to Rust): The
+    most advanced (and now fastest) auto-formatter for Markdown
+
   - [**chopdiff**](https://github.com/jlevy/chopdiff): Parsing, diffing, diff filtering,
     chunking, and windowed transforms of text to support LLM applications
 
-  - [**frontmatter-format**](https://github.com/jlevy/frontmatter-format) and [**sidematter-format**](https://github.com/jlevy/sidematter-format): Simple conventions and formats for metadata and assets on any file or alongside any file
+  - [**frontmatter-format**](https://github.com/jlevy/frontmatter-format) and
+    [**sidematter-format**](https://github.com/jlevy/sidematter-format): Simple
+    conventions and formats for metadata and assets on any file or alongside any file
 
 - Knowledge and content tools *✨NEW!✨*
 
-  - [**Kash**](https://github.com/jlevy/kash): A new kind of shell with powerful media and content processing capabilities (experimental but I use it a lot and has some cool ideas!)
+  - [**Kash**](https://github.com/jlevy/kash): A new kind of shell with powerful media
+    and content processing capabilities (experimental but I use it a lot and has some
+    cool ideas!)
 
   - [**Textpress**](https://github.com/jlevy/textpress): Simple publishing for complex
     ideas
@@ -107,8 +123,8 @@ Some new projects:
     Python project template, good if you’re starting a new project, with
     uv/ruff/Pyright/GitHub actions/PyPI publishing (used by uvtemplate)
 
-  - [**uvx uvtemplate**](https://github.com/jlevy/uvtemplate): Start a new Python project with one
-    command
+  - [**uvx uvtemplate**](https://github.com/jlevy/uvtemplate): Start a new Python
+    project with one command
 
   - [**py-app-standalone**](https://github.com/jlevy/py-app-standalone): Standalone,
     relocatable Python app builds using uv
@@ -124,17 +140,16 @@ Some new projects:
 
 - Handy hacks wrapping useful projects
 
-  - [**tminify**](https://github.com/jlevy/tminify): Modern JS/CSS/HTML
-    minification with terser plus Tailwind v4 compilation as a CLI and Python library
+  - [**tminify**](https://github.com/jlevy/tminify): Modern JS/CSS/HTML minification
+    with terser plus Tailwind v4 compilation as a CLI and Python library
 
   - [**simplexng**](https://github.com/jlevy/simplexng): A repackage of the local
     SearXNG web search engine you can run with one command
 
 A few new writings (these are rough and would appreciate feedback) *✨new!✨*
 
-- [*The Philosophy of Command
-  Line*](https://github.com/jlevy/the-philosophy-of-command-line): Some philosophical
-  reflections on software
+- [*The Philosophy of Command Line*](https://github.com/jlevy/the-philosophy-of-command-line):
+  Some philosophical reflections on software
 
 - [*Linters for Thought*](https://github.com/jlevy/lft): Reflections on Software
   Engineering and Collective Intelligence (draft!)
