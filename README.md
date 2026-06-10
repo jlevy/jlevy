@@ -6,9 +6,10 @@ Hi! In case you want to get to know me or my work, this is a cheat sheet.
 
 - [**@ojoshe**](https://twitter.com/ojoshe) on Twitter/X (this is best for DMs)
 
-- [**github.com/jlevy**](https://github.com/jlevy) for open source
+- [**github.com/jlevy**](https://github.com/jlevy) (for open source)
 
-- [**LinkedIn**](https://www.linkedin.com/in/jlevy/) (slow on messages here)
+- [**linkedin.com/in/jlevy**](https://www.linkedin.com/in/jlevy/) (slow on messages
+  here)
 
 Please reach out if you think you should!
 
